@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "My Hello World Post"
+title: "Hello World"
 date: 2021-04-08
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Put together a basic site on GitHub using [Jekyll](http://jekyllrb.com) and I followed this [tutorial](http://jmcglone.com/guides/github-pages/)
+
+I'm trying to keep this site very simple. Static pages hosted here on GitHub. Posts are written in plain text and Markdown and I hand code everything. Complicated is easy. Simple is hard. 
