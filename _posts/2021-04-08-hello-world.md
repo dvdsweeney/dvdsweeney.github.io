@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Tree: Grant Woods Forest Preserve"
+title: "Tree at Grant Woods Forest Preserve"
 date: 2021-04-08
 ---
 
-I enjoy photographing trees. 
+This incredible tree at Grant Woods in Lake County Forest Preserve has these branches that reach out far from the trunk. I've been photographing it throughout the seasons. Sharing a simple high contrast black and white here. 
 
-![tree](/assets/04082021-tree.jpeg){:width="500"}
+![tree](/assets/04082021-tree.jpeg)
