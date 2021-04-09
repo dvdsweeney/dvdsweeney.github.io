@@ -17,7 +17,7 @@ title: David Sweeney | Blog Categories
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
 <ul class="posts">
-  <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+  <li>{{ post.date | date_to_string }}</span> » <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
 </ul>
     {% endfor %}
   </div>
